@@ -1,8 +1,6 @@
 # Muhammad Saif
 
-Solo developer. I build SaaS, softwares and indie apps, and I sell the codebases.
-
-Currently the sole developer on a production Hospital Management System (Laravel) building the IPD module end to end. On the side I build and sell MVPs.
+I'm Saif. I'm the only developer building an entire hospital management system, and on the side I build and sell indie apps and codebases. I ship solo, with AI tools, and I document the whole thing.
 
 - Healthcare org: building + maintaining the HMS solo
 - Indie: [0xsaif.vercel.app](https://0xsaif.vercel.app)
